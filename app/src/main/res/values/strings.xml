@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectX</string>
+    <string name="title_activity_after_login">afterLoginActivity</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username_mobile">Username/Mobile</string>
+    <string name="signup_text">Create new account on ProjectX</string>
+</resources>
